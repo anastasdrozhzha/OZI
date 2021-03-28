@@ -1,0 +1,39 @@
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.exe
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.deps.json
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.runtimeconfig.json
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.runtimeconfig.dev.json
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.dll
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.pdb
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.csprojAssemblyReference.cache
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.AssemblyInfoInputs.cache
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.AssemblyInfo.cs
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.csproj.CoreCompileInputs.cache
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.dll
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.pdb
+D:\BSTU stuff\4 семестр 2 курс\ОЗИ\Лабы\Lab_6\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.genruntimeconfig.cache
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.exe
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.deps.json
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.runtimeconfig.json
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.runtimeconfig.dev.json
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.dll
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.pdb
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.csprojAssemblyReference.cache
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.AssemblyInfoInputs.cache
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.AssemblyInfo.cs
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.csproj.CoreCompileInputs.cache
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.dll
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.pdb
+D:\Desktop\Универ\ОЗИ\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.genruntimeconfig.cache
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.exe
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.deps.json
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.runtimeconfig.json
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.runtimeconfig.dev.json
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.dll
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\bin\Debug\netcoreapp3.1\Lab_6.pdb
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.csprojAssemblyReference.cache
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.AssemblyInfoInputs.cache
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.AssemblyInfo.cs
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.dll
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.pdb
+C:\Users\Anastasia PC\Desktop\Lab_6\Lab_6\obj\Debug\netcoreapp3.1\Lab_6.genruntimeconfig.cache
